@@ -16,11 +16,9 @@ Currently: AI/ML Fellow @ Break Through Tech AI | WiCS President | TA for Intro 
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Village Simulator](https://github.com/itslichu/gods-judgment) | Real-time simulation with 30+ autonomous characters, DFS pathfinding, collision detection, and dynamic catastrophe events | Java |
-| [FaceNet Safety Evaluation](#) | Evaluated FaceNet across adversarial robustness, physical robustness, and demographic bias — exposed critical fairness gaps | Python, PyTorch |
-| [Online Retail Analysis](#) | Segmented 500K+ customer records using clustering and NLP, built time-series models for sales forecasting | Python, scikit-learn, Pandas |
+| [FaceNet Safety Evaluation](https://github.com/itslichu/facenet-evaluation) | Evaluated FaceNet across adversarial robustness, physical robustness, and demographic bias — exposed critical fairness gaps | Python, PyTorch |
+| [Online Retail Analysis](https://github.com/itslichu/online-retail-analysis) | Segmented 500K+ customer records using clustering and NLP, built time-series models for sales forecasting | Python, scikit-learn, Pandas |
 | [Automated Grading Framework](#) | Java/JUnit framework processing 2,000+ submissions/semester across 70 LeetCode-style problems | Java, JUnit |
-
-*Replace `#` links with actual repo URLs as you publish them.*
 
 ## 📫 Let's Connect
 
